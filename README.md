@@ -1,6 +1,6 @@
 # Lab - 26
 
-#####[PR Link](https://github.com/eyobtamir-401n16/lab-26)
+##### [PR Link](https://github.com/eyobtamir-401n16/lab-26)
 
 ## About the lab
 
